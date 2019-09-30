@@ -3,7 +3,7 @@ int n,a[100],b[100],i=k=0,j;
 void main()
 { 
   printf("Enter the size\n");
-  scanf("%d",n);
+  scanf("%d",&n);
   printf("Enter the marks\n");
   for(i=0;i<n;i++)
   {
